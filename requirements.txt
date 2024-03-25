@@ -1,5 +1,5 @@
-asgiref>=3.3.2,<4
-Django==3.2.25
-pytz==2024.1
-sqlparse==0.4.4
-typing_extensions==4.3.0
+django
+django-decouple
+psycopg2-binary
+pillow
+
